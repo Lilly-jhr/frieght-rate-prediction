@@ -52,7 +52,6 @@ python score.py --predictions validation_predictions.csv \
 | `outputs/december-chart-inputs.csv` | The 31 December rows with `predicted_rate` filled |
 | `scorer_results/candidate_december.png` | The chart produced by `score.py` |
 | `reports/figures/*.png` | All 13 notebook figures, for the report |
-| `reports/report.md` | Written report (convert to PDF/DOCX to submit) |
 
 ## Approach in brief
 

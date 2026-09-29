@@ -15,3 +15,7 @@ Thumbs.db
 
 # Local tooling config, not part of the submission
 .claude/
+
+# Report drafts kept local, not published
+reports/report.md
+reports/loom-script.md
